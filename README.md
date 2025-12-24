@@ -1,2 +1,4 @@
 리드미 초기화
 featureA에서 작성한 내용
+
+![준하](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMQJq4eMa55LsKDQc-3xawaVQe2x0HAFa69g&s)
